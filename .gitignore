@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#glove data
+GloVe/glove.6B.50d.txt
+GloVe/glove.twitter.27B.25d.txt
+GloVe/glove.twitter.27B.50d.txt
+
+#saved model
+modelWeights1.data-00000-of-00001
+modelWeights1.index
